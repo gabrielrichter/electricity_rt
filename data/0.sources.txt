@@ -1,4 +1,4 @@
-Consumption:
+Consumption (Important: Unzip .rar before running the codes)
 http://www.ons.org.br/Paginas/resultados-da-operacao/historico-da-operacao/curva_carga_horaria.aspx
 
 GDP:
