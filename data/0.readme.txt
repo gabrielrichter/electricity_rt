@@ -1,0 +1,29 @@
+Sources and Important Notes
+
+Consumption:
+http://www.ons.org.br/Paginas/resultados-da-operacao/historico-da-operacao/curva_carga_horaria.aspx
+- IMPORTANT: the consumption file is too large for Github (+25MB). Therefore, BEFORE running the codes:
+1) Unzip "consumption.rar" and extract the "consumption.csv" file to "...\data".
+
+GDP:
+https://sidra.ibge.gov.br/tabela/5932
+
+Holidays:
+https://www.anbima.com.br/feriados/feriados.asp
+
+Population:
+https://sidra.ibge.gov.br/tabela/6579
+https://sidra.ibge.gov.br/tabela/793
+https://sidra.ibge.gov.br/tabela/1378
+https://www.ibge.gov.br/geociencias/organizacao-do-territorio/divisao-regional/23701-divisao-territorial-brasileira.html?=&t=o-que-e
+
+Shapefiles:
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2019/
+- IMPORTANT: the MG and SC files are too large for Github (+25MB). Therefore, BEFORE running the codes:
+1) Download the files from the following links:
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2019/UFs/MG/mg_municipios.zip
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2019/UFs/SC/sc_municipios.zip
+2) Unzip "mg_municipios.zip" and "sc_municipios.zip", and extract all the files to "...\data\shapefiles".
+
+Temperature:
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview
