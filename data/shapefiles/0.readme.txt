@@ -1,0 +1,7 @@
+Shapefiles:
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2019/
+- IMPORTANT: the MG and SC files are too large for Github (+25MB). Therefore, BEFORE running the codes:
+1) Download the files from the following links:
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2019/UFs/MG/mg_municipios.zip
+ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2019/UFs/SC/sc_municipios.zip
+2) Unzip "mg_municipios.zip" and "sc_municipios.zip", and extract all the files to "...\data\shapefiles".
